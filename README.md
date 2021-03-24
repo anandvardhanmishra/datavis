@@ -4,5 +4,5 @@ Also worked with Github and HackerNewsAPI to visualize most starred python proje
 
 <img src="/images/Random Walk.png">
 <img src="/images/Temperature Comparison.png">
-<img src="/images/Last Month Eartquakes.png">
+<img src="/images/Last Month Earthquakes.png">
 <img src="/images/Most Starred Python Projects.png">
